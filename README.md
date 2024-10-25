@@ -55,3 +55,9 @@ https://gpleasantportfolio.netlify.app/
  ![alt text](src/assets/appscreenshot.png)
 
 
+```md
+ ![alt text](src/assets/deployedapp.png)
+ ```
+
+
+ ![alt text](src/assets/deployedapp.png)
