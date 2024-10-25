@@ -45,3 +45,13 @@ Through this project, I gained valuable experience in:
 
 ### Link to deployment
 https://gpleasantportfolio.netlify.app/
+
+### Screenshot of Application
+```md
+ ![alt text](src/assets/appscreenshot.png)
+ ```
+
+
+ ![alt text](src/assets/appscreenshot.png)
+
+
